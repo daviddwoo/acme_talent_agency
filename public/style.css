@@ -1,0 +1,66 @@
+* {
+  background-color: cornsilk;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.clients {
+  flex: 1;
+  width: 10vh;
+  height: 20vh;
+  margin: 1rem;
+  padding: 2rem;
+  line-height: 1.5rem;
+}
+
+.clients h2 {
+  margin-top: 1%;
+  text-align: center;
+}
+
+.skills {
+  flex: 1;
+  width: 10vh;
+  height: 20vh;
+  margin: 1rem;
+  padding: 2rem;
+  line-height: 1.5rem;
+}
+
+.skills h2 {
+  margin-top: 1%;
+  text-align: center;
+}
+
+.singleData {
+  align-content: center;
+}
+
+.singleData span {
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+}
+
+.buttonDiv {
+  text-align: center;
+  padding: 1rem;
+}
+
+.formButton {
+  padding: 1rem;
+}
+
+.formDiv {
+  padding: 1rem;
+}
+
+.addButton {
+  margin: 1rem;
+}
